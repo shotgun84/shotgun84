@@ -4,9 +4,9 @@
 </p>
 
 <!-- Tagline -->
-<h3 align="center">
+<h2 align="center">
   Training small LLMs from scratch. Building pipelines. Breaking systems.
-</h3>
+</h2>
 
 <br>
 
@@ -21,51 +21,59 @@
 
 <br>
 
-<!-- Featured Project -->
-<h2 align="center">🧠 Custom LLM Training</h2>
-
-<p align="center">
-  <sub>Training small language models from scratch using PyTorch, Hugging Face Transformers, and LoRA.<br>Building custom tokenizers, distributed training pipelines, and evaluating emergent behaviors.</sub>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/PyTorch-0891b2?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
-  <img src="https://img.shields.io/badge/Hugging_Face-0891b2?style=flat-square&logo=huggingface&logoColor=white" alt="Hugging Face">
-  <img src="https://img.shields.io/badge/LoRA-be185d?style=flat-square&logoColor=white" alt="LoRA">
-  <img src="https://img.shields.io/badge/Tokenizers-6d28d9?style=flat-square&logoColor=white" alt="Tokenizers">
-  <img src="https://img.shields.io/badge/Distributed_Training-475569?style=flat-square&logoColor=white" alt="Distributed Training">
-</p>
-
-<br>
-
-<!-- Other Projects -->
+<!-- Projects Grid -->
 <h2 align="center">
-  <img src="https://img.shields.io/badge/◈_OTHER_PROJECTS-0891b2?style=flat-square&labelColor=0d1117" alt="">
+  <img src="https://img.shields.io/badge/◈_PROJECTS-0891b2?style=flat-square&labelColor=0d1117" alt="">
 </h2>
 
-<p align="center">
-  <b>🌍 Disaster Monitor</b><br>
-  <sub>Global real-time disaster dashboard. Aggregates NASA EONET, USGS, GDACS, and OpenWeather data.</sub><br>
-  <img src="https://img.shields.io/badge/React-0891b2?style=flat-square&logo=react&logoColor=white" alt="React">
-  <img src="https://img.shields.io/badge/Vercel-be185d?style=flat-square&logo=vercel&logoColor=white" alt="Vercel">
-  <img src="https://img.shields.io/badge/APIs-6d28d9?style=flat-square&logo=fastapi&logoColor=white" alt="APIs">
-</p>
-
-<br>
-
-<p align="center">
-  <b>🔐 LLM Security Research</b><br>
-  <sub>Studying how LLM systems break. Pre-training experiments, adversarial testing, and red-teaming AI pipelines.</sub><br>
-  <img src="https://img.shields.io/badge/OpenAI-0891b2?style=flat-square&logo=openai&logoColor=white" alt="OpenAI">
-  <img src="https://img.shields.io/badge/PyTorch-be185d?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
-  <img src="https://img.shields.io/badge/Red_Team-6d28d9?style=flat-square&logoColor=white" alt="Red Team">
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <h3 align="center">SmallGPT</h3>
+      <p align="center">A custom 13M parameter language model built from scratch on a unique architecture optimized for reasoning. Pre-trained on TinyStories, then on everyday conversational data, and finally fine-tuned on the SmolTalk dataset for aligned, intelligent dialogue.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
+        <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face">
+      </p>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <h3 align="center">The Expert</h3>
+      <p align="center">An agentic red-team testing system that performs exhaustive automated analysis on any endpoint. Runs hundreds of iterative tests to identify bugs, vulnerabilities, and edge cases, then delivers a comprehensive security report with actionable findings.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+        <img src="https://img.shields.io/badge/OpenAI-10A37F?style=flat-square&logo=openai&logoColor=white" alt="OpenAI">
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <h3 align="center">GeoSentinel</h3>
+      <p align="center">A global real-time disaster monitoring dashboard aggregating live data from NASA EONET, USGS earthquakes, GDACS alerts, and OpenWeather. Features interactive maps, timeline tracking, and multi-source event filtering for natural disaster awareness.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
+        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel">
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
+      </p>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <h3 align="center">QuantMonitor</h3>
+      <p align="center">An AI-powered stock analysis engine running comprehensive quantitative research with custom-trained models. Deploys multiple subagents for deep research, technical analysis, and sentiment evaluation to deliver a full investment report on any chosen stock.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+        <img src="https://img.shields.io/badge/yfinance-1E88E5?style=flat-square&logoColor=white" alt="yfinance">
+        <img src="https://img.shields.io/badge/OpenAI-10A37F?style=flat-square&logo=openai&logoColor=white" alt="OpenAI">
+      </p>
+    </td>
+  </tr>
+</table>
 
 <br>
 
 <!-- Past Experience -->
 <p align="center">
-  <sub><b>Past:</b> AI Voice Agent @ KaiDubai (Jun 2025 – Jan 2026) — Cold-calling lead qualification system using ElevenLabs + OpenAI LLMs.</sub>
+  <b>Past:</b> AI Voice Agent @ KaiDubai (Jun 2025 – Jan 2026) — Cold-calling lead qualification system using ElevenLabs + OpenAI LLMs.
 </p>
 
 <br>
@@ -77,41 +85,41 @@
 
 <p align="center">
   <b>Languages</b> —
-  <img src="https://img.shields.io/badge/Python-0891b2?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/JavaScript-be185d?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript">
-  <img src="https://img.shields.io/badge/TypeScript-6d28d9?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/HTML/CSS-475569?style=flat-square&logo=html5&logoColor=white" alt="HTML/CSS">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/HTML/CSS-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML/CSS">
 </p>
 
 <p align="center">
   <b>AI / ML</b> —
-  <img src="https://img.shields.io/badge/OpenAI-0891b2?style=flat-square&logo=openai&logoColor=white" alt="OpenAI">
-  <img src="https://img.shields.io/badge/ElevenLabs-be185d?style=flat-square&logoColor=white" alt="ElevenLabs">
-  <img src="https://img.shields.io/badge/LangChain-6d28d9?style=flat-square&logoColor=white" alt="LangChain">
-  <img src="https://img.shields.io/badge/PyTorch-475569?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
-  <img src="https://img.shields.io/badge/Hugging_Face-0891b2?style=flat-square&logo=huggingface&logoColor=white" alt="Hugging Face">
+  <img src="https://img.shields.io/badge/OpenAI-10A37F?style=flat-square&logo=openai&logoColor=white" alt="OpenAI">
+  <img src="https://img.shields.io/badge/ElevenLabs-000000?style=flat-square&logoColor=white" alt="ElevenLabs">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logoColor=white" alt="LangChain">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face">
 </p>
 
 <p align="center">
   <b>Frontend</b> —
-  <img src="https://img.shields.io/badge/React-0891b2?style=flat-square&logo=react&logoColor=white" alt="React">
-  <img src="https://img.shields.io/badge/Next.js-be185d?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-6d28d9?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
 </p>
 
 <p align="center">
   <b>Backend / Deploy</b> —
-  <img src="https://img.shields.io/badge/Vercel-0891b2?style=flat-square&logo=vercel&logoColor=white" alt="Vercel">
-  <img src="https://img.shields.io/badge/Node.js-be185d?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/FastAPI-6d28d9?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
 </p>
 
 <p align="center">
   <b>Data / Finance</b> —
-  <img src="https://img.shields.io/badge/Pandas-0891b2?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/NumPy-be185d?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
-  <img src="https://img.shields.io/badge/yfinance-6d28d9?style=flat-square&logoColor=white" alt="yfinance">
-  <img src="https://img.shields.io/badge/REST_APIs-475569?style=flat-square&logo=postman&logoColor=white" alt="REST APIs">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/yfinance-1E88E5?style=flat-square&logoColor=white" alt="yfinance">
+  <img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="REST APIs">
 </p>
 
 <br>
@@ -145,16 +153,16 @@
 
 <p align="center">
   <a href="mailto:imranowaisofficial@gmail.com">
-    <img src="https://img.shields.io/badge/📧_Email-be185d?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email">
+    <img src="https://img.shields.io/badge/Email-be185d?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email">
   </a>
   <a href="https://owaisimran.me">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-0891b2?style=for-the-badge&labelColor=0d1117" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-0891b2?style=for-the-badge&labelColor=0d1117" alt="Portfolio">
   </a>
   <a href="https://linkedin.com/in/owais-imran">
-    <img src="https://img.shields.io/badge/💼_LinkedIn-6d28d9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-6d28d9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn">
   </a>
   <a href="https://wa.me/971522263081">
-    <img src="https://img.shields.io/badge/📱_WhatsApp-475569?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d1117" alt="WhatsApp">
+    <img src="https://img.shields.io/badge/WhatsApp-475569?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d1117" alt="WhatsApp">
   </a>
 </p>
 
@@ -167,5 +175,5 @@
 </p>
 
 <p align="center">
-  <sub><i>System online. Always building.</i></sub>
+  <i>System online. Always building.</i>
 </p>
