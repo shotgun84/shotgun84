@@ -122,12 +122,12 @@
 </h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shotgun84&theme=dark&hide_border=true&title_color=0891b2&icon_color=be185d&text_color=e6edf3&bg_color=0d1117&show_icons=true&rank_icon=github&include_all_commits=true" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shotgun84&theme=dark&hide_border=true&stroke=0891b2&ring=be185d&fire=be185d&currStreakNum=0891b2&sideNums=e6edf3&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e&background=0d1117" alt="GitHub Streak" width="48%">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shotgun84&theme=dark&hide_border=true&title_color=0891b2&icon_color=be185d&text_color=e6edf3&bg_color=0d1117&show_icons=true&rank_icon=github&include_all_commits=true" alt="GitHub Stats" width="48%">
+  <img src="https://streak-stats.demolab.com/?user=shotgun84&theme=dark&hide_border=true&stroke=0891b2&ring=be185d&fire=be185d&currStreakNum=0891b2&sideNums=e6edf3&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e&background=0d1117" alt="GitHub Streak" width="48%">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shotgun84&theme=dark&hide_border=true&title_color=0891b2&text_color=e6edf3&bg_color=0d1117&layout=compact&langs_count=8" alt="Top Languages" width="48%">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shotgun84&theme=dark&hide_border=true&title_color=0891b2&text_color=e6edf3&bg_color=0d1117&layout=compact&langs_count=8" alt="Top Languages" width="48%">
 </p>
 
 <br>
