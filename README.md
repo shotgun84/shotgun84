@@ -76,17 +76,15 @@
 </h2>
 
 <p align="center">
-  <b>Languages</b><br>
+  <b>Languages</b> —
   <img src="https://img.shields.io/badge/Python-0891b2?style=flat-square&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/JavaScript-be185d?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript">
   <img src="https://img.shields.io/badge/TypeScript-6d28d9?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/HTML/CSS-475569?style=flat-square&logo=html5&logoColor=white" alt="HTML/CSS">
 </p>
 
-<hr width="60%" color="#21262d">
-
 <p align="center">
-  <b>AI / ML</b><br>
+  <b>AI / ML</b> —
   <img src="https://img.shields.io/badge/OpenAI-0891b2?style=flat-square&logo=openai&logoColor=white" alt="OpenAI">
   <img src="https://img.shields.io/badge/ElevenLabs-be185d?style=flat-square&logoColor=white" alt="ElevenLabs">
   <img src="https://img.shields.io/badge/LangChain-6d28d9?style=flat-square&logoColor=white" alt="LangChain">
@@ -94,28 +92,22 @@
   <img src="https://img.shields.io/badge/Hugging_Face-0891b2?style=flat-square&logo=huggingface&logoColor=white" alt="Hugging Face">
 </p>
 
-<hr width="60%" color="#21262d">
-
 <p align="center">
-  <b>Frontend</b><br>
+  <b>Frontend</b> —
   <img src="https://img.shields.io/badge/React-0891b2?style=flat-square&logo=react&logoColor=white" alt="React">
   <img src="https://img.shields.io/badge/Next.js-be185d?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
   <img src="https://img.shields.io/badge/Tailwind_CSS-6d28d9?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
 </p>
 
-<hr width="60%" color="#21262d">
-
 <p align="center">
-  <b>Backend / Deploy</b><br>
+  <b>Backend / Deploy</b> —
   <img src="https://img.shields.io/badge/Vercel-0891b2?style=flat-square&logo=vercel&logoColor=white" alt="Vercel">
   <img src="https://img.shields.io/badge/Node.js-be185d?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/FastAPI-6d28d9?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
 </p>
 
-<hr width="60%" color="#21262d">
-
 <p align="center">
-  <b>Data / Finance</b><br>
+  <b>Data / Finance</b> —
   <img src="https://img.shields.io/badge/Pandas-0891b2?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
   <img src="https://img.shields.io/badge/NumPy-be185d?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
   <img src="https://img.shields.io/badge/yfinance-6d28d9?style=flat-square&logoColor=white" alt="yfinance">
@@ -130,7 +122,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shotgun84&theme=dark&hide_border=true&title_color=0891b2&icon_color=be185d&text_color=e6edf3&bg_color=0d1117&show_icons=true&rank_icon=github" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=shotgun84&theme=dark&hide_border=true&title_color=0891b2&icon_color=be185d&text_color=e6edf3&bg_color=0d1117&show_icons=true&rank_icon=github&include_all_commits=true" alt="GitHub Stats" width="48%">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shotgun84&theme=dark&hide_border=true&stroke=0891b2&ring=be185d&fire=be185d&currStreakNum=0891b2&sideNums=e6edf3&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e&background=0d1117" alt="GitHub Streak" width="48%">
 </p>
 
