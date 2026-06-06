@@ -12,11 +12,22 @@
 
 <!-- Status Bar -->
 <p align="center">
-  <a href="https://owaisimran.me">
+  <a href="https://owaisimran.me" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-owaisimran.me-be185d?style=for-the-badge&labelColor=0d1117" alt="Portfolio">
   </a>
-  <img src="https://img.shields.io/badge/Location-Dubai,_UAE-0891b2?style=for-the-badge&labelColor=0d1117" alt="Location">
   <img src="https://img.shields.io/badge/Focus-LLM_Systems_+_Cybersecurity-6d28d9?style=for-the-badge&labelColor=0d1117" alt="Focus">
+</p>
+
+<p align="center">
+  <a href="mailto:imranowaisofficial@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0891b2?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/owais-imran-497681282/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-be185d?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn">
+  </a>
+  <a href="https://wa.me/971522263081">
+    <img src="https://img.shields.io/badge/WhatsApp-6d28d9?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d1117" alt="WhatsApp">
+  </a>
 </p>
 
 <br>
@@ -155,10 +166,10 @@
   <a href="mailto:imranowaisofficial@gmail.com">
     <img src="https://img.shields.io/badge/Email-be185d?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email">
   </a>
-  <a href="https://owaisimran.me">
+  <a href="https://owaisimran.me" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-0891b2?style=for-the-badge&labelColor=0d1117" alt="Portfolio">
   </a>
-  <a href="https://linkedin.com/in/owais-imran">
+  <a href="https://www.linkedin.com/in/owais-imran-497681282/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-6d28d9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn">
   </a>
   <a href="https://wa.me/971522263081">
