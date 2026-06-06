@@ -29,8 +29,8 @@
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top" align="center">
-      <h3 align="center">SmallGPT</h3>
-      <p align="center">A custom 13M parameter language model built from scratch on a unique architecture optimized for reasoning. Pre-trained on TinyStories, then on everyday conversational data, and finally fine-tuned on the SmolTalk dataset for aligned, intelligent dialogue.</p>
+      <h3 align="center">TinyLM</h3>
+      <p align="center">A custom 13M parameter language model built from scratch on a unique architecture optimized for story writing. Pre-trained on TinyStories, then on everyday conversational data, and finally fine-tuned on the SmolTalk dataset for aligned, intelligent dialogue.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
